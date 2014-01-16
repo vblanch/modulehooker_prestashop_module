@@ -1,0 +1,1 @@
+Just an idea: a module to create hooks in modules on the backend without messing with code, etc. Also useful to see the available hooks of modules.
